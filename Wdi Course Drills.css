@@ -1,0 +1,18 @@
+p {
+  background: orange;
+}
+
+#titles {
+  font-size: 10px;
+  background: blue;
+}
+
+body {
+  float: left;
+  margin: 0 1.5%;
+ width: 63%
+}
+head {float: right;
+   margin: 0 1.5%;
+  width: 63%
+}
